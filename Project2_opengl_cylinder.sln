@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project2_opengl_cylinder", "Project2_opengl_cylinder\Project2_opengl_cylinder.vcxproj", "{4734D2C8-634B-4CC5-A29D-E982E2F1D92D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4734D2C8-634B-4CC5-A29D-E982E2F1D92D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4734D2C8-634B-4CC5-A29D-E982E2F1D92D}.Debug|Win32.Build.0 = Debug|Win32
+		{4734D2C8-634B-4CC5-A29D-E982E2F1D92D}.Release|Win32.ActiveCfg = Release|Win32
+		{4734D2C8-634B-4CC5-A29D-E982E2F1D92D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
